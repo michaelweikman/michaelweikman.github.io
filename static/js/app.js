@@ -67,7 +67,7 @@ function plotGuage(metaData){
                     { range: [1, 2], color: "grey" },
                     { range: [2, 3], color: "darkgrey" },
                     { range: [3, 4], color: "yellow" },
-                    { range: [4, 5], color: "green" },
+                    { range: [4, 5], color: "skyblue" },
                     { range: [5, 6], color: "blue" },
                     { range: [6, 7], color: "purple" },
                     { range: [7, 8], color: "orange" },
